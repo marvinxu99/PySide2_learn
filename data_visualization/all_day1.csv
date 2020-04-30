@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-04-27T02:30:02.055Z,63.2129,-149.9433,97.1,1.4,ml,,,,0.41,ak,ak0205f6s94i,2020-04-27T02:34:13.003Z,"53km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2020-04-27T02:26:56.503Z,61.7682,-148.0223,33.4,1.2,ml,,,,0.85,ak,ak0205f6rg13,2020-04-27T02:32:31.750Z,"43km E of Sutton-Alpine, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2020-04-27T02:24:31.829Z,36.87589264,-97.44405365,5,2.57,ml,65,112.0009079,0.1393798739,0.6900494246,ok,ok2020ifyq,2020-04-27T02:36:49.040Z,"15km WNW of Blackwell, Oklahoma",earthquake,1.942593848,,,49,automatic,ok,ok
+2020-04-27T02:11:41.240Z,38.8176651,-122.8233337,2.85,0.89,md,14,76,0.0099,0.02,nc,nc73377225,2020-04-27T02:34:03.278Z,"7km NW of The Geysers, CA",earthquake,0.3,0.71,0.01,2,automatic,nc,nc
+2020-04-27T02:01:33.547Z,-40.2915,173.3627,205.54,4.3,mb,,87,0.802,0.49,us,us60009d0i,2020-04-27T02:25:04.450Z,"78km NE of Takaka, New Zealand",earthquake,8,7.1,0.169,10,reviewed,us,us
+2020-04-27T01:44:22.022Z,61.7241,-156.0684,13.4,1,ml,,,,0.75,ak,ak0205f69v3v,2020-04-27T01:55:03.800Z,"139km S of McGrath, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2020-04-27T01:35:14.480Z,19.1686668,-155.4701691,33.29,1.78,md,35,86,0.01522,0.1,hv,hv71490287,2020-04-27T01:38:26.590Z,"4km SSE of Pahala, Hawaii",earthquake,0.48,0.79,0.06,6,automatic,hv,hv
+2020-04-27T01:29:53.890Z,19.1528339,-155.4746704,31.54,1.88,md,33,150,0.01214,0.14,hv,hv71490282,2020-04-27T01:33:09.450Z,"5km S of Pahala, Hawaii",earthquake,0.64,1.11,0.25,3,automatic,hv,hv
+2020-04-27T01:29:32.760Z,38.8233337,-122.800499,4.98,0.55,md,7,115,0.00748,0.04,nc,nc73377205,2020-04-27T01:44:05.951Z,"6km NW of The Geysers, CA",earthquake,1.1,2.24,,1,automatic,nc,nc
+2020-04-27T01:29:02.130Z,17.9733,-66.9483,10,2.76,md,20,180,0.0691,0.13,pr,pr2020118000,2020-04-27T02:13:02.618Z,"3km WSW of Fuig, Puerto Rico",earthquake,0.36,0.5,0.17,17,reviewed,pr,pr
+2020-04-27T01:18:22.180Z,35.7036667,-117.5716667,10.53,1.43,ml,23,88,0.1138,0.15,ci,ci39406840,2020-04-27T01:29:09.880Z,"13km NE of Ridgecrest, CA",earthquake,0.34,0.56,0.15,23,automatic,ci,ci
